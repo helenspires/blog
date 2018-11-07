@@ -40,7 +40,7 @@ app.use((req, res, next) => {
   const cookie = req.cookies.settings || {};
   const settings = (typeof cookie === 'string') ? JSON.parse(cookie) : cookie;
   res.locals.settings = settings;
-  res.locals.appName = 'craigabbott.co.uk';
+  res.locals.appName = 'socialsoup.co.uk';
   res.locals.environment = process.env.NODE_ENV;
   next();
 });
