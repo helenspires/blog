@@ -223,6 +223,11 @@ fieldset {
   border-right: .15em solid $body-secondary;
 }
 
+  h1.about-header {
+  padding-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+}
+
 @import 'code-agate';
 @import 'code-solarized-dark';
 @import 'code-vs2015';

@@ -1,19 +1,19 @@
 {% extends '../../common/layout.njk' %}
 
 {% block content %}
+
   <main id="content" role="main" tabindex="-1" class="{{settings.pBorders if settings.pBorders}}">
     <div class="large-container">
       <div class="column-two-thirds">
-
-        <article>
-          <h1>
-            {{post.title}}
-            <span class="visually-hidden">Published on</span>
-            <span class="published-date">{{post.createdAt|formatDate}} <span class="vertical-line"></span> {{readTime}}</span>
-          </h1>
-          
-          {% markdown 'posts/' + post.slug + '/post.md' %}
-        </article>
+          <article>
+            <h1>
+              {{post.title}}
+              <span class="visually-hidden">Published on</span>
+              <span class="published-date">{{post.createdAt|formatDate}} <span class="vertical-line"></span> {{readTime}}</span>
+            </h1>
+            
+            {% markdown 'posts/' + post.slug + '/post.md' %}
+          </article>
 
       </div>
     </div>
