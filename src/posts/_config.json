@@ -1,18 +1,27 @@
 [
   {
-    "title": "HMRC - Tax Credit service",
+    "title": "Tax Credit renewal service",
     "slug": "hmrc-tax-credit-service",
-    "createdAt": "2017-09-27T00:00:00.00Z",
+    "createdAt": "HM Revenue and Customs",
+    "categories": [
+      "ux", "accessibility", "development"
+    ]
+  },
+    {
+    "title": "Tax Credit service",
+    "slug": "hmrc-tax-credit-service",
+    "createdAt": "HM Revenue and Customs",
     "categories": [
       "ux", "accessibility", "development"
     ]
   },
   {
-    "title": "NHS Business Services Authority - Help paying NHS costs",
+    "title": "Help paying NHS costs",
     "slug": "help-to-pay-nhs-costs",
-    "createdAt": "2017-08-07T00:00:00.00Z",
+    "createdAt": "NHS Business Services Authority",
     "categories": [
       "ux"
     ]
   }
+
 ]

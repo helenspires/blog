@@ -144,6 +144,13 @@ a {
   border-bottom: 1px solid $border-colour;
 }
 
+.about-me-wrapper {
+  display: block;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid $border-colour;
+}
+
 article {
   margin-bottom: 0;
   padding: 0 0 2em;
@@ -223,9 +230,19 @@ fieldset {
   border-right: .15em solid $body-secondary;
 }
 
-  h1.about-header {
-  padding-bottom: 1em;
-  border-bottom: 1px solid #ccc;
+
+.column-one-half {
+ -webkit-box-sizing:border-box;
+ box-sizing:border-box;
+ width:100%;
+ padding:0;
+}
+
+@media (min-width: 40.0625em) {
+ .column-one-half {
+  width:50%;
+  float:left
+ }
 }
 
 @import 'code-agate';

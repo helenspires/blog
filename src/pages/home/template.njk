@@ -4,16 +4,20 @@
   <main id="content" role="main" tabindex="-1" class="{{settings.pBorders if settings.pBorders}}">
     <div class="column-two-thirds">
       <h1 id="home-header" class="visually-hidden">All articles</h1>
-      <article>
-      <h1 class="about-header"> Helen Spires is a multidisciplinary designer based in Newcastle upon Tyne.</h1>
-      </article>
+
+      <div class="about-me-wrapper">
+          <h1>Helen Spires is an interaction designer based in Newcastle upon Tyne.</h1>
+            <p><span>You can read her quick thoughts on</span> <a href="https://twitter.com/SocialSoup" target="_blank">Twitter</a>, <span>see photos she takes on</span> <span><a href="https://www.instagram.com/socialsoup/" target="_blank">Instagram</a> or</span> <span>email her at <a href="mailto:socialsoupdesign@gmail.com" target="_blank">socialsoupdesign@gmail.com</a> to say hello.</span></p>
+          
+      </div>
+
 
       {% for post in posts %}
         <article>
           <h1>
             {{post.title}}
             <span class="visually-hidden">Published on</span>
-            <span class="published-date">{{post.createdAt|formatDate}} <span class="vertical-line"></span> {{post.slug|readTime}}</span>
+            <span class="published-date">{{post.createdAt}} </span>
           </h1>
           
           {% markdown 'posts/' + post.slug + '/excerpt.md' %}
@@ -21,7 +25,7 @@
           <div class="read-full-article-wrapper">
             <a href="/{{post.slug}}">
               <span class="visually-hidden">{{post.title}}: </span>
-              Read full article
+              Read case study
             </a>
           </div>
         </article>

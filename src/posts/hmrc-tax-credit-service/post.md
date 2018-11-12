@@ -4,8 +4,42 @@ I used prototypes extensively to demonstrate user journeys and explain design th
 
 Prototypes helped the team communicate more efficiently. Helping both frontend and backend developers understand layout and user journeys. A link to a relevant section of a prototype was included in the user stories held in Jira.
 
+## Solutions
+Building prototypes and regular user research allowed the team to adopt an iterative approach to designing screens.
 
-## Who I worked with
+The team examined blueprints of the existing service, paper based forms and the telephonic processes. Helping the team to identify issues and reduce the need to ask customers to make complex calculations.
+
+![A screenshot of kidly.co.uk's website. It shows 3 text fields for recipient name, your mobile and recipient address. The error messages in red read: Please enter a recipient name. Oops, you forgot to pop in your mobile number, don't be shy. And, Doh! We need this to know where we're going.](/images/tax-credit-homepage.png "Screenshot of kidly.co.uk's error messages")
+
+![A screenshot of kidly.co.uk's website. It shows 3 text fields for recipient name, your mobile and recipient address. The error messages in red read: Please enter a recipient name. Oops, you forgot to pop in your mobile number, don't be shy. And, Doh! We need this to know where we're going.](/images/tax-credit-household-income.png "Screenshot of kidly.co.uk's error messages")
+
+![A screenshot of kidly.co.uk's website. It shows 3 text fields for recipient name, your mobile and recipient address. The error messages in red read: Please enter a recipient name. Oops, you forgot to pop in your mobile number, don't be shy. And, Doh! We need this to know where we're going.](/images/tax-credit-income-from-all-jobs.png "Screenshot of kidly.co.uk's error messages")
+
+<!-- ## Working with stakeholders
+
+The team attempted to educate stakeholders on the need for quality data from both the business and users. In order to improve a customer’s experience of the service.
+
+I worked with stakeholders in an attempt to reduce learning anxiety. And encouraged them to embrace uncertainty, invest in continuous learning and engage in collaboration. -->
+
+## Challenges
+User expectation was that any changes made to their circumstances using the service would update the system in real time and recalculate their claim. Unfortunately this was not the case. The service could take up to 24 hours to update. Not all changes were automated.
+
+The challenge of designing a user centred service was made all the more difficult by not having access to the data HMRC held on existing tax credits claimants. This was compounded by a lack of trust in the actual data the team could access.
+
+Because tax credits is due to be replaced by universal credit in the near future there was a reluctance to consider simplifying the existing policy and process.
+
+
+## The team
+- Product owner
+- Scrum master
+- User researcher
+- Content designer
+- Business analyst
+- Front end developer 
+- Developers
+- Testers
+
+
 
 ## How we worked
 
