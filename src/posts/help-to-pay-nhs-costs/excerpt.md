@@ -1,1 +1,3 @@
-The need for help to pay for necessary medicines or treatments is clear, yet the tangle of different policies and legislation across the UKs countries, government departments and multiple services makes it one of the hardest areas to get right for government.
+If a patient has a low income, the NHS Low Income Scheme could help to pay for things like prescriptons, dental care and the cost to travel to hospital for appointments. 
+
+It is complex legislation, based on the Income Support regulations and is currently a 16 page paper form, with 72 accompanying letter templates for additonal information. It gets 380,000 applications annually, each processed by a caseworker. It has nearly a 1 to 1 ratio of calls to applications.

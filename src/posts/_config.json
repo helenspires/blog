@@ -10,7 +10,7 @@
 
     {
     "title": "Help paying NHS costs - Maternity",
-    "slug": "help-to-pay-nhs-costs",
+    "slug": "nhs-maternity-exemption",
     "createdAt": "NHS Business Services Authority",
     "categories": [
       "ux"
@@ -18,7 +18,7 @@
   },
     {
     "title": "Help paying NHS costs - Low Income Scheme",
-    "slug": "nhs-maternity-exemption",
+    "slug": "help-to-pay-nhs-costs",
     "createdAt": "NHS Business Services Authority",
     "categories": [
       "ux"

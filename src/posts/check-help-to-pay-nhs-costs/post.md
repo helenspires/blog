@@ -1,8 +1,6 @@
-[gov.uk/help-nhs-costs](http://www.gov.uk/help-nhs-costs).
+[gov.uk/help-nhs-costs](http://www.gov.uk/help-nhs-costs)
 
-*“It was a lot of money, I used to have to pick and choose what medications I got, because I just couldn’t afford everything”*
-
-
+## The problem
 Currently there are several different reasons that would entitle a person to receive free or reduced cost NHS prescriptions, dental care or travel to a hospital appointment.
 
 
@@ -30,5 +28,7 @@ A smart questionnaire to show a patient if they are eligible for help, and if so
 ![A screenshot of content iteration for Universal Credit questioning. It shows 3 different questions, progressively becoming clearer English. The first reads: Do you get an additional child element or have you been assessed as having limited capability for work? The second reads: Do you get any of these additonal elements of Universal Credit? and the last reads: Does your Universal Credit include either of these payments?](/images/universal-credit-questions.jpg "Content iteration for Universal Credit questioning")
 
 **Multiple government departments as stakeholders**: We worked with 7 different government departments, 6 of which had an active role in how the service would be implimented. (Department for Work and Pensions, Department of Health and Social Care, Ministry of Defence, Home Office, The Scottish Government, Welsh Government and Government Digital Service).
+
+
 
 
