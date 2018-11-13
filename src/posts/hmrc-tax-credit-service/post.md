@@ -9,11 +9,11 @@ Building prototypes and regular user research allowed the team to adopt an itera
 
 The team examined blueprints of the existing service, paper based forms and the telephonic processes. Helping the team to identify issues and reduce the need to ask customers to make complex calculations.
 
-![A screenshot of kidly.co.uk's website. It shows 3 text fields for recipient name, your mobile and recipient address. The error messages in red read: Please enter a recipient name. Oops, you forgot to pop in your mobile number, don't be shy. And, Doh! We need this to know where we're going.](/images/tax-credit-homepage.png "Screenshot of kidly.co.uk's error messages")
+![Screenshot of home page from the tax credits service.](/images/tax-credit-homepage.png "Screenshot of home page from the tax credits service.")
 
-![A screenshot of kidly.co.uk's website. It shows 3 text fields for recipient name, your mobile and recipient address. The error messages in red read: Please enter a recipient name. Oops, you forgot to pop in your mobile number, don't be shy. And, Doh! We need this to know where we're going.](/images/tax-credit-household-income.png "Screenshot of kidly.co.uk's error messages")
+![Screenshot of household income from the tax credits service.](/images/tax-credit-household-income.png "Screenshot of household income from the tax credits service.")
 
-![A screenshot of kidly.co.uk's website. It shows 3 text fields for recipient name, your mobile and recipient address. The error messages in red read: Please enter a recipient name. Oops, you forgot to pop in your mobile number, don't be shy. And, Doh! We need this to know where we're going.](/images/tax-credit-income-from-all-jobs.png "Screenshot of kidly.co.uk's error messages")
+![Screenshot of mobile view of estimated income from jobs.](/images/tax-credit-income-from-all-jobs.png "Screenshot of mobile view of estimated income from jobs")
 
 <!-- ## Working with stakeholders
 

@@ -1,1 +1,3 @@
-The need for help to pay for necessary medicines or treatments is clear, yet the tangle of different policies and legislation across the UKs countries, government departments and multiple services makes it one of the hardest areas to get right for government.
+The NHS Maternity Exemption is a service that provides entitlement to free prescriptons to pregnant women and new mothers, up until a year after their child was born.
+
+It currently is a paper form that both the mother and midwife has to complete.
