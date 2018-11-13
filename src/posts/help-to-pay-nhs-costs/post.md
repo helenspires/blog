@@ -15,6 +15,9 @@ We worked **very** hard on alleviating stakeholder fears, and assertaining what 
 ![A screenshot of the BETA invitation page](/images/apply-online-invite.png "A screenshot of the BETA invitation page")
 
 ## Challenges
+**Multiple entry points**: To allow multiple entry points into the service, we worked with GDS to get a GOV.UK start page. This is only the second NHS service start page on GOV.UK.
+![Diagram showing multiple entry points to service](/images/entry-points.png "Diagram showing multiple entry points to service")
+
 **Huge amount of pages**: To allow for an MVP release, we devised the miniumum amout of questions we could learn from. This quickly grew so that other circumstances could also be accomodated. There are roughtly 200 developed pages. 
 
 ![A screenshot of the user flow to aid developers and testers](/images/lis-release-asylum.png "A screenshot of the user flow to aid developers and testers")
