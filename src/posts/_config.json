@@ -1,12 +1,4 @@
 [
-  {
-    "title": "Tax Credit renewal service",
-    "slug": "hmrc-tax-credit-service",
-    "createdAt": "HM Revenue and Customs",
-    "categories": [
-      "ux", "accessibility", "development"
-    ]
-  },
     {
     "title": "Tax Credit service",
     "slug": "hmrc-tax-credit-service",
@@ -15,9 +7,26 @@
       "ux", "accessibility", "development"
     ]
   },
-  {
-    "title": "Help paying NHS costs",
+
+    {
+    "title": "Help paying NHS costs - Maternity",
     "slug": "help-to-pay-nhs-costs",
+    "createdAt": "NHS Business Services Authority",
+    "categories": [
+      "ux"
+    ]
+  },
+    {
+    "title": "Help paying NHS costs - Low Income Scheme",
+    "slug": "nhs-maternity-exemption",
+    "createdAt": "NHS Business Services Authority",
+    "categories": [
+      "ux"
+    ]
+  },
+      {
+    "title": "Check for help to pay NHS costs",
+    "slug": "check-help-to-pay-nhs-costs",
     "createdAt": "NHS Business Services Authority",
     "categories": [
       "ux"
