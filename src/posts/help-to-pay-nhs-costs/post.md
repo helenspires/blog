@@ -15,9 +15,11 @@ We worked **very** hard on alleviating stakeholder fears, and assertaining what 
 ![A screenshot of the BETA invitation page](/images/apply-online-invite.png "A screenshot of the BETA invitation page")
 
 ## Challenges
-**Huge amount of pages**: 
+**Huge amount of pages**: To allow for an MVP release, we devised the miniumum amout of questions we could learn from. This quickly grew so that other circumstances could also be accomodated. There are roughtly 200 developed pages. 
 
 ![A screenshot of the user flow to aid developers and testers](/images/lis-release-asylum.png "A screenshot of the user flow to aid developers and testers")
 
-**Resistance to change**: 
+**1p can change the outcome of a decision**: Many users guess figures, especially pence. 1p in the calculation can mean the difference between getting free prescriptions or not, so it was viatlly important to stress the importance of getting things right.
+
+**Resistance to change**: Fraud is a huge concern for the business, and this fear can hold progress in large scale projects. 
 
